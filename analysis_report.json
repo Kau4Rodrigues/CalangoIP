@@ -1,0 +1,363 @@
+{
+    "IPs": {
+        "162.125.8.15": {
+            "AbuseIPDB": {
+                "ipAddress": "162.125.8.15",
+                "isPublic": true,
+                "ipVersion": 4,
+                "isWhitelisted": null,
+                "abuseConfidenceScore": 0,
+                "countryCode": "US",
+                "usageType": "Data Center/Web Hosting/Transit",
+                "isp": "Dropbox, Inc.",
+                "domain": "dropboxinc.com",
+                "hostnames": [],
+                "isTor": false,
+                "totalReports": 0,
+                "numDistinctUsers": 0,
+                "lastReportedAt": null
+            },
+            "Abuse.ch": "IP 162.125.8.15 pode estar associado a C2, verifique: https://feodotracker.abuse.ch/browse.php?search=162.125.8.15"
+        },
+        "23.34.82.70": {
+            "AbuseIPDB": {
+                "ipAddress": "23.34.82.70",
+                "isPublic": true,
+                "ipVersion": 4,
+                "isWhitelisted": false,
+                "abuseConfidenceScore": 0,
+                "countryCode": "US",
+                "usageType": "Data Center/Web Hosting/Transit",
+                "isp": "Akamai Technologies, Inc.",
+                "domain": "akamai.com",
+                "hostnames": [
+                    "a23-34-82-70.deploy.static.akamaitechnologies.com"
+                ],
+                "isTor": false,
+                "totalReports": 0,
+                "numDistinctUsers": 0,
+                "lastReportedAt": "2024-12-02T08:53:11+00:00"
+            },
+            "Abuse.ch": "IP 23.34.82.70 pode estar associado a C2, verifique: https://feodotracker.abuse.ch/browse.php?search=23.34.82.70"
+        },
+        "204.79.197.239": {
+            "AbuseIPDB": {
+                "ipAddress": "204.79.197.239",
+                "isPublic": true,
+                "ipVersion": 4,
+                "isWhitelisted": false,
+                "abuseConfidenceScore": 18,
+                "countryCode": "US",
+                "usageType": "Commercial",
+                "isp": "Microsoft Corporation",
+                "domain": "microsoft.com",
+                "hostnames": [],
+                "isTor": false,
+                "totalReports": 7,
+                "numDistinctUsers": 6,
+                "lastReportedAt": "2025-03-01T16:31:40+00:00"
+            },
+            "Abuse.ch": "IP 204.79.197.239 pode estar associado a C2, verifique: https://feodotracker.abuse.ch/browse.php?search=204.79.197.239"
+        },
+        "20.42.65.92": {
+            "AbuseIPDB": {
+                "ipAddress": "20.42.65.92",
+                "isPublic": true,
+                "ipVersion": 4,
+                "isWhitelisted": false,
+                "abuseConfidenceScore": 0,
+                "countryCode": "US",
+                "usageType": "Data Center/Web Hosting/Transit",
+                "isp": "Microsoft Corporation",
+                "domain": "microsoft.com",
+                "hostnames": [],
+                "isTor": false,
+                "totalReports": 0,
+                "numDistinctUsers": 0,
+                "lastReportedAt": "2024-07-29T20:58:29+00:00"
+            },
+            "Abuse.ch": "IP 20.42.65.92 pode estar associado a C2, verifique: https://feodotracker.abuse.ch/browse.php?search=20.42.65.92"
+        },
+        "101.99.94.234": {
+            "AbuseIPDB": {
+                "ipAddress": "101.99.94.234",
+                "isPublic": true,
+                "ipVersion": 4,
+                "isWhitelisted": false,
+                "abuseConfidenceScore": 0,
+                "countryCode": "BG",
+                "usageType": "Data Center/Web Hosting/Transit",
+                "isp": "Shinjiru Technology Sdn Bhd",
+                "domain": "shinjiru.com.my",
+                "hostnames": [
+                    "server1.kamon.la"
+                ],
+                "isTor": false,
+                "totalReports": 0,
+                "numDistinctUsers": 0,
+                "lastReportedAt": "2023-12-23T13:54:54+00:00"
+            },
+            "Abuse.ch": "IP 101.99.94.234 pode estar associado a C2, verifique: https://feodotracker.abuse.ch/browse.php?search=101.99.94.234"
+        },
+        "239.255.255.250": {
+            "AbuseIPDB": {
+                "ipAddress": "239.255.255.250",
+                "isPublic": true,
+                "ipVersion": 4,
+                "isWhitelisted": true,
+                "abuseConfidenceScore": 0,
+                "countryCode": null,
+                "usageType": "Reserved",
+                "isp": null,
+                "domain": null,
+                "hostnames": [],
+                "isTor": false,
+                "totalReports": 1,
+                "numDistinctUsers": 1,
+                "lastReportedAt": "2024-12-06T02:43:53+00:00"
+            },
+            "Abuse.ch": "IP 239.255.255.250 pode estar associado a C2, verifique: https://feodotracker.abuse.ch/browse.php?search=239.255.255.250"
+        },
+        "91.134.150.150": {
+            "AbuseIPDB": {
+                "ipAddress": "91.134.150.150",
+                "isPublic": true,
+                "ipVersion": 4,
+                "isWhitelisted": false,
+                "abuseConfidenceScore": 0,
+                "countryCode": "FR",
+                "usageType": "Data Center/Web Hosting/Transit",
+                "isp": "OVH SAS",
+                "domain": "ovh.net",
+                "hostnames": [],
+                "isTor": false,
+                "totalReports": 0,
+                "numDistinctUsers": 0,
+                "lastReportedAt": "2024-07-04T07:11:49+00:00"
+            },
+            "Abuse.ch": "IP 91.134.150.150 pode estar associado a C2, verifique: https://feodotracker.abuse.ch/browse.php?search=91.134.150.150"
+        },
+        "104.16.185.241": {
+            "AbuseIPDB": {
+                "ipAddress": "104.16.185.241",
+                "isPublic": true,
+                "ipVersion": 4,
+                "isWhitelisted": true,
+                "abuseConfidenceScore": 0,
+                "countryCode": "US",
+                "usageType": "Content Delivery Network",
+                "isp": "Cloudflare, Inc.",
+                "domain": "cloudflare.com",
+                "hostnames": [],
+                "isTor": false,
+                "totalReports": 0,
+                "numDistinctUsers": 0,
+                "lastReportedAt": "2024-08-12T15:31:01+00:00"
+            },
+            "Abuse.ch": "IP 104.16.185.241 pode estar associado a C2, verifique: https://feodotracker.abuse.ch/browse.php?search=104.16.185.241"
+        },
+        "104.17.123.55": {
+            "AbuseIPDB": {
+                "ipAddress": "104.17.123.55",
+                "isPublic": true,
+                "ipVersion": 4,
+                "isWhitelisted": true,
+                "abuseConfidenceScore": 0,
+                "countryCode": "US",
+                "usageType": "Content Delivery Network",
+                "isp": "Cloudflare, Inc.",
+                "domain": "cloudflare.com",
+                "hostnames": [],
+                "isTor": false,
+                "totalReports": 0,
+                "numDistinctUsers": 0,
+                "lastReportedAt": "2023-06-16T03:54:12+00:00"
+            },
+            "Abuse.ch": "IP 104.17.123.55 pode estar associado a C2, verifique: https://feodotracker.abuse.ch/browse.php?search=104.17.123.55"
+        },
+        "13.107.6.158": {
+            "AbuseIPDB": {
+                "ipAddress": "13.107.6.158",
+                "isPublic": true,
+                "ipVersion": 4,
+                "isWhitelisted": false,
+                "abuseConfidenceScore": 8,
+                "countryCode": "US",
+                "usageType": "Data Center/Web Hosting/Transit",
+                "isp": "Microsoft Corporation",
+                "domain": "microsoft.com",
+                "hostnames": [
+                    "bingforbusiness.com"
+                ],
+                "isTor": false,
+                "totalReports": 5,
+                "numDistinctUsers": 3,
+                "lastReportedAt": "2025-02-12T06:02:19+00:00"
+            },
+            "Abuse.ch": "IP 13.107.6.158 pode estar associado a C2, verifique: https://feodotracker.abuse.ch/browse.php?search=13.107.6.158"
+        },
+        "10.3.14.101": {
+            "AbuseIPDB": {
+                "ipAddress": "10.3.14.101",
+                "isPublic": false,
+                "ipVersion": 4,
+                "isWhitelisted": null,
+                "abuseConfidenceScore": 0,
+                "countryCode": null,
+                "usageType": "Reserved",
+                "isp": null,
+                "domain": null,
+                "hostnames": [],
+                "isTor": false,
+                "totalReports": 0,
+                "numDistinctUsers": 0,
+                "lastReportedAt": null
+            },
+            "Abuse.ch": "IP 10.3.14.101 pode estar associado a C2, verifique: https://feodotracker.abuse.ch/browse.php?search=10.3.14.101"
+        },
+        "208.95.112.1": {
+            "AbuseIPDB": {
+                "ipAddress": "208.95.112.1",
+                "isPublic": true,
+                "ipVersion": 4,
+                "isWhitelisted": false,
+                "abuseConfidenceScore": 16,
+                "countryCode": "US",
+                "usageType": "Data Center/Web Hosting/Transit",
+                "isp": "Total Uptime Technologies, LLC",
+                "domain": "totaluptime.com",
+                "hostnames": [
+                    "ip-api.com"
+                ],
+                "isTor": false,
+                "totalReports": 7,
+                "numDistinctUsers": 6,
+                "lastReportedAt": "2025-02-20T13:59:13+00:00"
+            },
+            "Abuse.ch": "IP 208.95.112.1 pode estar associado a C2, verifique: https://feodotracker.abuse.ch/browse.php?search=208.95.112.1"
+        },
+        "10.3.14.255": {
+            "AbuseIPDB": {
+                "ipAddress": "10.3.14.255",
+                "isPublic": false,
+                "ipVersion": 4,
+                "isWhitelisted": null,
+                "abuseConfidenceScore": 0,
+                "countryCode": null,
+                "usageType": "Reserved",
+                "isp": null,
+                "domain": null,
+                "hostnames": [],
+                "isTor": false,
+                "totalReports": 0,
+                "numDistinctUsers": 0,
+                "lastReportedAt": null
+            },
+            "Abuse.ch": "IP 10.3.14.255 pode estar associado a C2, verifique: https://feodotracker.abuse.ch/browse.php?search=10.3.14.255"
+        },
+        "104.21.44.66": {
+            "AbuseIPDB": {
+                "ipAddress": "104.21.44.66",
+                "isPublic": true,
+                "ipVersion": 4,
+                "isWhitelisted": null,
+                "abuseConfidenceScore": 0,
+                "countryCode": "US",
+                "usageType": "Content Delivery Network",
+                "isp": "Cloudflare, Inc.",
+                "domain": "cloudflare.com",
+                "hostnames": [],
+                "isTor": false,
+                "totalReports": 0,
+                "numDistinctUsers": 0,
+                "lastReportedAt": null
+            },
+            "Abuse.ch": "IP 104.21.44.66 pode estar associado a C2, verifique: https://feodotracker.abuse.ch/browse.php?search=104.21.44.66"
+        },
+        "10.3.14.1": {
+            "AbuseIPDB": {
+                "ipAddress": "10.3.14.1",
+                "isPublic": false,
+                "ipVersion": 4,
+                "isWhitelisted": null,
+                "abuseConfidenceScore": 0,
+                "countryCode": null,
+                "usageType": "Reserved",
+                "isp": null,
+                "domain": null,
+                "hostnames": [],
+                "isTor": false,
+                "totalReports": 0,
+                "numDistinctUsers": 0,
+                "lastReportedAt": null
+            },
+            "Abuse.ch": "IP 10.3.14.1 pode estar associado a C2, verifique: https://feodotracker.abuse.ch/browse.php?search=10.3.14.1"
+        },
+        "91.92.252.234": {
+            "AbuseIPDB": {
+                "ipAddress": "91.92.252.234",
+                "isPublic": true,
+                "ipVersion": 4,
+                "isWhitelisted": false,
+                "abuseConfidenceScore": 0,
+                "countryCode": "NL",
+                "usageType": "Fixed Line ISP",
+                "isp": "Fuse Hosting Web",
+                "domain": "fusehosting.net",
+                "hostnames": [
+                    "abstersive.runshuojx.com"
+                ],
+                "isTor": false,
+                "totalReports": 0,
+                "numDistinctUsers": 0,
+                "lastReportedAt": "2024-07-04T07:11:37+00:00"
+            },
+            "Abuse.ch": "IP 91.92.252.234 pode estar associado a C2, verifique: https://feodotracker.abuse.ch/browse.php?search=91.92.252.234"
+        },
+        "52.153.155.231": {
+            "AbuseIPDB": {
+                "ipAddress": "52.153.155.231",
+                "isPublic": true,
+                "ipVersion": 4,
+                "isWhitelisted": false,
+                "abuseConfidenceScore": 0,
+                "countryCode": "US",
+                "usageType": "Data Center/Web Hosting/Transit",
+                "isp": "Microsoft Corporation",
+                "domain": "microsoft.com",
+                "hostnames": [],
+                "isTor": false,
+                "totalReports": 0,
+                "numDistinctUsers": 0,
+                "lastReportedAt": "2024-11-11T08:25:44+00:00"
+            },
+            "Abuse.ch": "IP 52.153.155.231 pode estar associado a C2, verifique: https://feodotracker.abuse.ch/browse.php?search=52.153.155.231"
+        }
+    },
+    "Protocolos": {
+        "UDP": 33,
+        "TCP": 46271
+    },
+    "Anomalias": [
+        [
+            "104.17.123.55",
+            29137
+        ],
+        [
+            "10.3.14.101",
+            15717
+        ],
+        [
+            "91.134.150.150",
+            1290
+        ],
+        [
+            "101.99.94.234",
+            25
+        ],
+        [
+            "13.107.6.158",
+            20
+        ]
+    ],
+    "DNS": 
